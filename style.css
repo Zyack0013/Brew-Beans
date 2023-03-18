@@ -367,16 +367,12 @@ button:hover{
 }
 
 @media(max-width:768px){
-    .row{
-        flex-wrap: wrap;
-        text-align: center;
-    }
-    .footer{
-        text-align: center;
+
+    .text-footer{
+        width: 100%;
     }
     .social{
-        display: flex;
-        padding-left: 25%;
+        text-align: center;
     }
     .addres{
         display: none;
